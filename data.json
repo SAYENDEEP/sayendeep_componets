@@ -1,0 +1,83 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kashmir",
+        "description": "Welcome to the Pardise of India, Welcome to the valley of Kashmir"
+      },
+      "geometry": {
+        "coordinates": [75.3412, 33.2778],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Meghalaya",
+        "description": "Welcome to the city of cloud and hills , Welcome to the land of Meghalaya"
+      },
+      "geometry": {
+        "coordinates": [91.3662, 25.4670],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Uttar Pradesh",
+        "description": "Welcome to the city of heritage and spirituality , Welcome to the river bank of Uttar Pradesh"
+      },
+      "geometry": {
+        "coordinates": [80.9462, 26.8467],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kerala",
+        "description": "Welcome to the land of coconut and backwater, Welcome to city of kerala "
+      },
+      "geometry": {
+        "coordinates": [76.2711,10.8505],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Goa", 
+        "description": "Welcome to the heaven of seafood and NightClubs , Welcome to the beaches of Goa"
+      },
+      "geometry": {
+        "coordinates": [74.1240, 15.2993],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "West Bengal",
+        "description": "Welcome to city of sweets and festival , Welcome to explore the city of joy West Bengal "
+      },
+      "geometry": {
+        "coordinates": [87.8550, 22.9868],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Uttarakhand",
+        "description": "Welcome to city of mountain and handicrafts , Welcome to the soul of Mount Everst Uttarakhand"
+      },
+      "geometry": {
+        "coordinates": [79.0193, 30.0668],
+        "type": "Point"
+      }
+    }
+    
+  ],
+  "type": "FeatureCollection"
+}
